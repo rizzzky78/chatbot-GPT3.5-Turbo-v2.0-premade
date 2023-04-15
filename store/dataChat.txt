@@ -1,0 +1,23 @@
+Landasan Teori:
+
+    1. Total Productive Maintenance (TPM)
+    
+    Total Productive Maintenance (TPM) adalah suatu pendekatan management maintenance yang berfokus pada upaya perbaikan sistem, peralatan, dan manajemen untuk meningkatkan produktivitas dan kualitas. Pendekatan TPM memandang operator mesin sebagai pemiliki proses dan responsibilitas dalam perawatan peralatan sehingga dapat ditingkatkan kinerjanya. Dalam pendekatan TPM, mesin harus dijaga agar selalu dalam kondisi baik dan sehat sehingga mesin dapat beroperasi secara optimal. (Moubray, 1997)
+    
+    2. Overall Equipment Effectiveness (OEE)
+    
+    Overall Equipment Effectiveness (OEE) adalah sebuah metode pengukuran kinerja yang berfokus pada efektivitas dari suatu mesin atau peralatan pada saat beroperasi. Konsep dari OEE meliputi tiga aspek, yaitu:
+    - Availability: Ketersediaan peralatan untuk digunakan
+    - Performance: Efisiensi kinerja mesin/peralatan
+    - Quality: Kualitas dari output yang dihasilkan
+    
+    OEE merupakan metode pengukuran yang penting dalam TPM, dan digunakan untuk menentukan efektivitas dan efisiensi dari mesin atau peralatan dalam proses produksi. (Nakamura & Kume, 2003)
+    
+    3. Diagram Fishbone
+    
+    Diagram Fishbone, juga dikenal dengan nama Diagram Ishikawa atau Diagram Tulang Ikan, adalah suatu metode dalam analisis masalah yang digunakan untuk merepresentasikan hubungan antara suatu masalah dengan faktor-faktor yang mempengaruhinya. Diagram ini berbentuk seperti tulang ikan yang memiliki tulang tengah yang merepresentasikan masalah dan cabang-cabang memanjang yang merepresentasikan faktor penyebab dari suatu masalah tersebut. Diagram Fishbone dapat membantu dalam mengidentifikasi dan menganalisis faktor-faktor penyebab masalah pada suatu sistem atau proses. (Ishikawa, 1985)
+    
+Sumber:
+- Moubray, J. (1997). Reliability-centered maintenance. Industrial Press Inc.
+- Nakamura, K., & Kume, H. (2003). TPM development program: implementing total productive maintenance. Productivity Press.
+- Ishikawa, K. (1985), What is Total Quality Control?, Japanese Association of Quality Control.

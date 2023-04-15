@@ -1,0 +1,17 @@
+RnD (Research and Development) merupakan metode penelitian yang bertujuan untuk mengembangkan model, teknologi, atau inovasi baru yang lebih efektif dan efisien dalam memecahkan masalah tertentu. Metode RnD juga membantu peneliti untuk memperoleh data yang valid dan reliabel, serta dapat digeneralisasi pada populasi yang lebih besar.
+
+Dalam penelitian ini, peneliti akan mengembangkan chatbot yang memiliki kemampuan untuk memberikan informasi produk dan layanan pelanggan bagi UMKM Stokis Center Sidanegara Cilacap melalui aplikasi WhatsApp. Tujuan dari pengembangan chatbot ini adalah untuk memudahkan akses informasi bagi pelanggan dan meningkatkan efisiensi proses bisnis online pada UMKM tersebut.
+
+Metode RnD yang akan digunakan pada penelitian ini terdiri dari lima tahapan, yaitu:
+
+1. Tahap pendahuluan: penelitian awal untuk mengidentifikasi masalah dan kebutuhan pelanggan serta melakukan studi literatur terkait pengembangan chatbot.
+
+2. Tahap perencanaan: mengembangkan konsep chatbot melalui desain sistem, algoritma, dan teknologi yang sesuai.
+
+3. Tahap pengembangan: uji coba chatbot pada sekelompok kecil pelanggan untuk mengoptimalkan fitur dan kinerjanya.
+
+4. Tahap evaluasi: melakukan evaluasi pada chatbot untuk mengevaluasi hasil pengembangan terhadap kepuasan pelanggan dan efektivitas penggunaannya.
+
+5. Tahap penyempurnaan: melakukan perbaikan dan pengembangan lanjutan pada chatbot sesuai dengan hasil evaluasi pada tahap sebelumnya.
+
+Dengan metode RnD ini, diharapkan dapat mengoptimalkan proses bisnis online pada UMKM Stokis Center Sidanegara Cilacap dan memberikan pelayanan yang lebih baik bagi pelanggan melalui pengembangan chatbot yang efektif dan efisien.

@@ -1,0 +1,16 @@
+Berikut adalah rumusan masalah, batasan masalah, tujuan, dan manfaat penelitian berdasarkan konteks yang sudah diberikan sebelumnya:
+
+  1. Rumusan Masalah
+  
+    a. Bagaimana mengoptimalkan proses bisnis online UMKM Stokis Center Sidanegara Cilacap dalam memudahkan akses informasi produk dan pelayanan pelanggan menggunakan chatbot melalui platform aplikasi WhatsApp?
+    b. Bagaimana efektivitas penggunaan chatbot melalui aplikasi WhatsApp dalam meningkatkan kualitas pelayanan pelanggan pada UMKM Stokis Center Sidanegara Cilacap?
+    
+  2. Batasan Masalah
+  
+    a. Penelitian hanya berfokus pada pengembangan chatbot sebagai pengganti admin dalam melayani pelanggan terkait informasi produk dan pelayanan pelanggan pada UMKM.
+    b. Penelitian hanya melibatkan pelanggan yang menghubungi UMKM Stokis Center Sidanegara Cilacap melalui aplikasi WhatsApp.
+    c. Penelitian tidak mengevaluasi kausalitas penggunaan chatbot dalam meningkatkan kualitas pelayanan pelanggan pada UMKM Stokis Center Sidanegara Cilacap.
+    
+  3. Tujuan Penelitian
+  
+    a. Mengoptimalkan proses bisnis online UMKM Stokis Center Sidanegara Cilacap dalam memudahkan akses informasi produk dan pelayanan pelanggan menggunakan chatbot melal

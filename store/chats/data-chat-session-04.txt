@@ -1,0 +1,11 @@
+Bagus, berikut adalah latar belakang penelitian yang sudah dilengkapi dengan informasi lebih detail:
+
+UMKM Stokis Center Sidanegara Cilacap adalah sebuah distributor yang menjual produk herbal dari PT Herba Penawar Alwahida Indonesia (HPAI). HPAI merupakan perusahaan Bisnis Halal Network yang didirikan pada tanggal 19 Maret 2012 dan fokus pada penyediaan produk-produk barang konsumsi (consumer goods) yang halal dan berkualitas.
+
+Saat ini, UMKM Stokis Center Sidanegara Cilacap hanya memiliki 1 admin yang bertugas untuk melayani pelanggan dari seputar informasi produk hingga pembelian. Pelanggan dapat menghubungi admin melalui aplikasi whatsapp. Namun, karena banyaknya pelanggan yang menghubungi admin dalam waktu yang sama, membuat proses respon menjadi lambat dan chat terkadang tertumpuk.
+
+Oleh karena itu, chatbot dirancang untuk mengatasi permasalahan tersebut. Chatbot akan digunakan sebagai pengganti admin dalam melayani para pelanggan terkait informasi produk dan pelayanan pelanggan pada UMKM. Namun, proses pembelian dan pembayaran tetap dilakukan oleh admin dan tidak menggunakan chatbot.
+
+Implementasi chatbot pada platform aplikasi whatsapp dipilih karena aplikasi whatsapp merupakan akses utama dan paling mudah ke UMKM dibandingkan akun media sosial lainnya. Untuk pengembangan chatbot sendiri dikembangkan menggunakan bahasa pemrogaman typescript dan javascript, dengan menggunakan librari Baileys whatsapp API untuk membuat chatbot.
+
+Dengan adanya chatbot, diharapkan dapat mengoptimalkan proses bisnis online UMKM Stokis Center Sidanegara Cilacap dalam memberikan akses informasi produk dan pelayanan pelanggan yang lebih mudah dan cepat. Oleh karena itu, penelitian ini bertujuan untuk menguji efektivitas penggunaan chatbot melalui platform aplikasi whatsapp dalam meningkatkan kualitas pelayanan dan memudahkan akses informasi produk dan pelayanan pelanggan di UMKM Stokis Center Sidanegara Cilacap.
